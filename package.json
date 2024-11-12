@@ -1,0 +1,23 @@
+{
+  "name": "syncslide",
+  "version": "1.0.0",
+  "description": "Emphasizes synchronized viewing of slides in real time.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/000000Srj/Project.git"
+  },
+  "author": "Sub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/000000Srj/Project#issues"
+  },
+  "homepage": "https://github.com/000000Srj/Project#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1"
+  }
+}
